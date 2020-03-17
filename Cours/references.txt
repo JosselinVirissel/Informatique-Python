@@ -89,6 +89,8 @@ Python
   <http://python.developpez.com/tutoriels/cours-intensif-scientifique/presentation-debuter/>`_ |fr|
 - `Introduction à Python pour la programmation scientifique
   <http://www.courspython.com/sommaire.html>`_ |fr|
+- `Introduction à la programmation Python pour la biologie
+  <https://python.sdv.univ-paris-diderot.fr/>`_ |fr|
 
 - `Begginer's Guide <https://wiki.python.org/moin/BeginnersGuide>`_
 - `DIY python workshop
@@ -135,7 +137,7 @@ Scientifique
 - `NumPy et SciPy
   <http://python.developpez.com/tutoriels/cours-intensif-scientifique/module-numpy-scipy/>`_
   |fr|
-  
+
 ..
    - `La programmation scientifique avec Python
      <https://openclassrooms.com/courses/la-programmation-scientifique-avec-python>`_
